@@ -22,6 +22,7 @@ $(function() {
 var myOptions = {
     zoom: 7,
     // center: new google.maps.LatLng(53.385873, -1.471471),
+    // center: new google.maps.LatLng(41.172694, 36.072922),
     center: new google.maps.LatLng(41.172694, 36.072922),
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     disableDefaultUI: true,
