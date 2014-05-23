@@ -20,9 +20,9 @@ $(function() {
 
 //Google Map Skin - Get more at http://snazzymaps.com/
 var myOptions = {
-    zoom: 7,
+    zoom: 9,
     // center: new google.maps.LatLng(53.385873, -1.471471),
-    center: new google.maps.LatLng(41.291024, 36.335049),
+    center: new google.maps.LatLng(41.172694, 36.072922),
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     disableDefaultUI: true,
     styles: [{
