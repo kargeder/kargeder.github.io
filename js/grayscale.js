@@ -20,7 +20,7 @@ $(function() {
 
 //Google Map Skin - Get more at http://snazzymaps.com/
 var myOptions = {
-    zoom: 5,
+    zoom: 10,
     // center: new google.maps.LatLng(53.385873, -1.471471),
     center: new google.maps.LatLng(41.291024, 36.335049),
     mapTypeId: google.maps.MapTypeId.ROADMAP,
